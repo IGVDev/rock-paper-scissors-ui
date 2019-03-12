@@ -1,0 +1,33 @@
+body{
+  font-family:helvetica;
+  background:gray;
+}
+
+.container{
+  padding:25px;
+  text-align:center;
+  border-style:solid;
+  border-color:blue;
+  background:#D78C0B;
+}
+
+.result-msg{
+  text-align:center;
+  margin-top:25px;
+}
+
+#lose{
+  background:red;
+  color:black;
+  padding:30px;
+  margin-left:300px;
+  margin-right:300px;
+}
+
+#win{
+  background:green;
+  color:black;
+  padding:30px;
+  margin-left:300px;
+  margin-right:300px;
+}
