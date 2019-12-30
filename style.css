@@ -3,6 +3,11 @@ body{
   background:gray;
 }
 
+button {
+  height: 40px;
+  border-radius:10px;
+}
+
 .container{
   padding:25px;
   text-align:center;
@@ -13,21 +18,21 @@ body{
 
 .result-msg{
   text-align:center;
-  margin-top:25px;
+  margin-top:2%;
 }
 
 #lose{
   background:red;
   color:black;
-  padding:30px;
-  margin-left:300px;
-  margin-right:300px;
+  padding:3%;
+  margin-left:20%;
+  margin-right:20%;
 }
 
 #win{
   background:green;
   color:black;
-  padding:30px;
-  margin-left:300px;
-  margin-right:300px;
+  padding:3%;
+  margin-left:20%;
+  margin-right:20%;
 }
